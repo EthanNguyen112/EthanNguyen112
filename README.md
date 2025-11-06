@@ -2,12 +2,11 @@
 
 I’m a Computer Engineer who loves building tools that automate, connect, and simplify. My experience spans from Python automation and data pipelines to embedded development with TM4C123 microcontrollers, integrating hardware and software for real-world systems.
 
-I’m especially interested in IoT systems, automation scripting, and low-level programming, with a focus on writing clean, efficient, and reliable code.
 
 ###  Featured Projects
-- [**Embedded Weather Quest**](#): IoT system displaying real-time weather data on an LCD using Wi-Fi and APIs.  
-- [**Bluetooth Robot Car**](#): TM4C123-based RC car controlled via UART and Bluetooth.  
-- [**Automation Suite (L3Harris)**](#): Python tools to track 50+ Jira tickets, reducing manual reporting time by 40%.
+- [**Embedded Weather Quest**](https://github.com/EthanNguyen112/Uni-Projects/tree/main/Embedded_Weather_Quest): IoT system displaying real-time weather data on an LCD using Wi-Fi and APIs.  
+- [**Bluetooth Robot Car**](https://github.com/EthanNguyen112/Uni-Projects/tree/main/Bluetooth_Controlled_Robot_Car): TM4C123-based RC car controlled via UART and Bluetooth.  
+- [**Serial Terminal Calculator**](https://github.com/EthanNguyen112/Uni-Projects/tree/main/Serial_Terminal_Calculator): A serial communication calculator program built on the 8051 microcontroller
 
 *What I’ve Worked On*
 
