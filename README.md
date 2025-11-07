@@ -24,16 +24,16 @@ IOS AppCounter - Makes the user more aware of selected apps to help lower screen
 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png)
-![MATLAB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png)
-![Bash](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
-![Vim](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
-![git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
-![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
-![bitbucket](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png)
+![C#](style=flat&https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png)
+![MATLAB](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png)
+![Bash](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
+![Vim](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
+![git](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
+![Visual Studio Code](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![bitbucket](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png)
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange)
-![Arduino](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png)
+![Arduino](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png)
 
 Languages: Python, C, C++, VBScript, HTML, CSS
 
