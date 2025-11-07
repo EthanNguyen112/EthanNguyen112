@@ -21,7 +21,7 @@ Automation Tools (L3Harris Internship) – Developed Python/VBScript tools to au
 
 IOS AppCounter - Makes the user more aware of selected apps to help lower screen time. 
 
-Tech Stack
+### Tech Stack:
 
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
@@ -47,7 +47,7 @@ Portfolio Website: Coming soon!
 
 ### Currently Exploring
 - AWS Cloud Practitioner Certification  
-- Full-stack web development (React + Flask)  
+- CompTIA A+ Certification  
 - Embedded networking and secure IoT systems
 - IOS Shortcuts app automation
 
