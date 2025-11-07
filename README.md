@@ -22,18 +22,16 @@ Automation Tools (L3Harris Internship) – Developed Python/VBScript tools to au
 IOS AppCounter - Makes the user more aware of selected apps to help lower screen time. 
 
 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](style=flat&https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png&logoColor=white)
-![MATLAB](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png&logoColor=white)
-![Bash](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png&logoColor=white)
-![Vim](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png&logoColor=white)
-![git](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png&logoColor=white)
-![Visual Studio Code](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png&logoColor=white)
-![bitbucket](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png&logoColor=white)
-
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange)
-![Arduino](style=flat&logo=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png&logoColor=white)
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/>
 
 Languages: Python, C, C++, VBScript, HTML, CSS
 
