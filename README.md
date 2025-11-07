@@ -24,14 +24,16 @@ IOS AppCounter - Makes the user more aware of selected apps to help lower screen
 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](<StackIcon name="c#" />)
-![Bash](<StackIcon name="bash" />)
-![Vim](<StackIcon name="vim" />)
-![git](<StackIcon name="git" />)
-![Atlassian](<StackIcon name="atlassian" />)
-![bitbucket](<StackIcon name="bitbucket" />)
-![Slack](<StackIcon name="slack" />)
+![C#](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png)
+![MATLAB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png)
+![Bash](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
+![Vim](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png)
+![git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
+![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![bitbucket](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png)
+
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange)
+![Arduino](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png)
 
 Languages: Python, C, C++, VBScript, HTML, CSS
 
@@ -40,11 +42,11 @@ Tools: Keil µVision, Jira, Confluence, Git, VS Code
 Platforms: TM4C123 LaunchPad, 8051, ARDUINO
 
 
-📧 Email: EthanNguyen112@gmail.com
+Email: EthanNguyen112@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/ethan-nguyen112](https://www.linkedin.com/in/ethan-nguyen112/)
+LinkedIn: [linkedin.com/in/ethan-nguyen112](https://www.linkedin.com/in/ethan-nguyen112/)
 
-🌐 Portfolio Website: Coming soon!
+Portfolio Website: Coming soon!
 
 ### Currently Exploring
 - AWS Cloud Practitioner Certification  
