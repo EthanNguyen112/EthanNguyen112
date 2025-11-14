@@ -1,6 +1,6 @@
 # Ethan Nguyen
 
-I wanted to be an inventor to create and be part of something big. Those ideas influenced me to get a bachelor's degree in Computer engineering from California state university. My experience spans from playing with legos as a kid to working with brilliant minds on nuclear power systems. I've programming microcontrollers for professors, worked with VBScript in assisting tech writers, and creating Python scripts for SWE managers. 
+I wanted to be an inventor to create and be part of something big. Those ideas influenced me to get a bachelor's degree in Computer engineering from California state university. My experience spans from playing with legos as a kid to working with brilliant minds on nuclear power systems. I've programmed microcontrollers for professors, worked with VBScript in assisting tech writers, and creating Python scripts for SWE managers. 
 
 ###  Featured Projects
 - [**Embedded Weather Quest**](https://github.com/EthanNguyen112/Uni-Projects/tree/main/Embedded_Weather_Quest): IoT system displaying real-time weather data on an LCD using Wi-Fi and APIs.  
